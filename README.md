@@ -11,7 +11,7 @@
   <summary>💻 Frontend Development</summary>
 
   - **JavaScript / TypeScript**
-  - **React | React-Native | Next.js | Gatsby.js | Electron**
+  - **React | React-Native | Next.js | Gatsby.js | Electron | Angular | Vue**
   - **HTML | CSS | SCSS | MUI | Ant Design | Bootstrap | Tailwind**
 </details>
 
